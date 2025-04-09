@@ -187,5 +187,3 @@ new_filtered_test %>%
 
 ## Isolate home wins as explanatory variable
 - Are rent prices more responsive when a team is successful in their home stadium?
-
-## 
